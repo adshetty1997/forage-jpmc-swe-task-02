@@ -5,6 +5,7 @@
 /new_env
 /.pnp
 .pnp.js
+*.patch
 
 # testing
 /coverage
